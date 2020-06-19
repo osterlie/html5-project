@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Jeffrey Osterlie Adjei. I am a Ruby on Rails developer.
 
-Things you may want to cover:
+This is my first project learning HTML5, CSS, Javascript, Jquery, etc.
 
-* Ruby version
+I am excited to learn more tech stuff. This is a learning experience.
 
-* System dependencies
+I am really looking forward to doing some computer magic as Hartl would say.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I believe that this will go a long way to help me build a solid IT business.
